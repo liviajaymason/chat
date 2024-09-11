@@ -63,7 +63,7 @@ const createMessageOtherElement = (content, sender, senderColor) => {
 const authorizedUsers = [
     { name: "Lavi 🎈", ip: "146.70.98.145" },
     { name: "Pedro", ip: "169.150.196.102" },
-    { name: "NoName404", ip: "89.39.107.190" },
+    { name: "NoName404", ip: "89.39.107.185" },
     { name: "Cuca", ip: "146.70.98.145" },
     { name: "Unic", ip: "209.14.68.136" }
 ]
