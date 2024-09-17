@@ -60,7 +60,7 @@ const createMessageOtherElement = (content, sender, senderColor) => {
 
 }
 
-<!-- Nem adianta você saber o as credenciais, espertão! -->
+<!-- Nem adianta você saber as credenciais, espertão! -->
 <!-- Sem o nick e o Ip correto, você não poderá se conectar, logo, não tem como você invadir! -->
 <!-- Um beijo da Lavi pra você! Se você conseguir invadir, me avisa, tá? -->
             
