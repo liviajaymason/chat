@@ -166,3 +166,15 @@ body {
     cursor: pointer;
     color: black;
 }
+
+h5 {
+    text-align: center;
+    font-weight: 600;
+    font-size: 1.5rem;
+    margin-bottom: 20px;
+}
+
+h5 a {
+    color: red;
+    text-decoration: none;
+}
