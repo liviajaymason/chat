@@ -168,11 +168,11 @@ body {
 }
 
 .login__form h5 {
-    text-align: center;
+    text-align: left;
     margin-bottom: 20px;
 }
 
 .login__form h5 a {
-    color: blue;
+    color: rede;
     text-decoration: none;
 }
