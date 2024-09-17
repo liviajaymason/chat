@@ -60,6 +60,10 @@ const createMessageOtherElement = (content, sender, senderColor) => {
 
 }
 
+<!-- Nem adianta você saber o as credenciais, espertão!
+    Sem o nick e o Ip correto, você não poderá se conectar, logo, não tem como você invadir!
+        Um beijo da Lavi pra você! Se você conseguir invadir, me avisa, tá? -->
+            
 const authorizedUsers = [
     { name: "Lavi 🎈", ip: "146.70.98.145" },
     { name: "Pedro", ip: "169.150.196.102" },
